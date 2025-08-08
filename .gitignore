@@ -1,0 +1,66 @@
+# Flutter 관련
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.*
+
+# iOS 관련
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/Flutter/ephemeral/
+ios/build/
+
+# macOS 관련
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/build/
+
+# Android 관련
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/captures/
+android/.settings/
+
+# Windows 관련
+windows/Flutter/ephemeral/
+windows/build/
+
+# Linux 관련
+linux/Flutter/ephemeral/
+linux/build/
+
+# Web 관련
+web/.dart_tool/
+web/build/
+
+# 기타 에디터/OS/툴 관련
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*.DS_Store
+*.log
+*.lock
+*.tmp
+*.bak
+
+# Firebase CLI
+.firebase/
+
+# 테스트/시뮬레이터 관련
+test_output/
+
+# Git LFS warning 방지
+*.mp4 filter=lfs diff=lfs merge=lfs -text
