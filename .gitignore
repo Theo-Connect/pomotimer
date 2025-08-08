@@ -63,4 +63,4 @@ web/build/
 test_output/
 
 # Git LFS warning 방지
-*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -textbuild/
